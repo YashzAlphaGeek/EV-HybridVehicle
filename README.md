@@ -2,8 +2,8 @@
 
 Hybrid vehicles have two power sources Engine and motor. It takes advantage of each power source and the power sources compensate for each other's shortcomings. It doesn't require external charging and no special infracture is required.
 
-More Power - IC Engine helps
-More Fuel - Motor helps
++ More Power - IC Engine helps
++ More Fuel - Motor helps
 
 ### Needs of Hybrid Technology
 + Growth of the global automation market - <b> Good Fuel Economy </b>
